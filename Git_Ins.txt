@@ -1,0 +1,25 @@
+git clone git@gitlab.tcil.in:virendra.mishra/SCSERPNEW.git
+
+
+git config --global user.email "kavita.dahima@tciscs.com"
+  git config --global user.name "Kavita.Dahima"
+
+git pull origin master---page pull command 
+ git checkout -b Developer  ---use projrct name 
+git add.
+git commit -m 'from kavita for again testing'
+
+git push origin [Developer]
+
+
+$ git push origin developer
+fatal: developer cannot be resolved to branch
+fatal: the remote end hung up unexpectedly
+
+
+
+$ git add .
+
+$ git commit -m "changes in grid query in liability form"
+
+$ git push origin developer
